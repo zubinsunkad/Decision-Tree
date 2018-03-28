@@ -73,6 +73,6 @@ Results were documented in the test file output1.txt and output2.txt.
 
 ## Acknowledgments
 
-* [Arthur-e](https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter7/treepredict.py)
+* [Arthur-e](https://github.com/arthur-e/Programming-Collective-Intelligence/)
 * [Marius Przydatek](https://mariuszprzydatek.com/2014/10/31/measuring-entropy-data-disorder-and-information-gain/)
-* [Joeya James](https://github.com/joeyajames/Python/blob/master/BinarySearchTree.py)
+* [Joeya James](https://github.com/joeyajames/Python/)
