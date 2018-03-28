@@ -63,6 +63,9 @@ Following are the input functions:
 
 Extra tips : If you want the output of above program to be printed in file, add ‘>> output.txt’ at end of above code.
 
+## Results
+
+Results were documented in the test file output1.txt and output2.txt.
 
 ## Authors
 
